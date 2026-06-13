@@ -6,7 +6,7 @@ header:
   overlay_color: "#1c1c1e"
   overlay_filter: 0.85
   tagline: "Protein Sparing Modified Fast tracker"
-excerpt: "Personalized macro targets, curated food logging, and safe refeeding — built specifically for PSMF."
+excerpt: "Personalized protein targets, daily food logging, and structured refeeding — built specifically for PSMF."
 toc: true
 toc_label: "On This Page"
 toc_icon: "list"
@@ -22,30 +22,27 @@ toc_icon: "list"
 
 ## What It Does
 
-PSMF Diet calculates your personalized macro targets based on your lean body mass, then helps you hit them every day. Log meals from a curated PSMF-approved food list, track your progress over time, and follow a structured refeeding protocol — all without creating an account or sending your data anywhere.
+PSMF Diet calculates your personalized protein target based on your lean body mass, then helps you hit it every day. Log meals, track your weight against your LBM floor, and schedule refeeds and diet breaks — all without creating an account or sending your data anywhere.
 
 ## Features
 
-**Macro Calculator**
-Personalized daily protein, fat, and carb targets using the YMCA body fat formula based on your stats.
+**Protein Calculator**
+Personalized daily protein target calculated from your lean body mass using the YMCA body fat formula. Fat and carb limits are included to keep you in a true PSMF.
 
-**Daily Food Logging**
-Log meals from a curated PSMF-approved food list, save favorites, and monitor macros throughout the day.
+**Protein Tracker**
+Log meals, save favorites for quick re-use, and monitor your protein goal and carb/fat limits throughout the day.
 
-**Progress Analytics**
-Weight loss charts and body composition snapshots to keep you on track.
+**Progress Tracking**
+Weight trend chart with your LBM floor shown as a reference line, so you always know how much fat you have left to lose and when to stop.
 
 **Diet Scheduling**
-Automated refeed day and diet break management so you never have to guess when to refeed.
+Refeed day and diet break scheduling based on your body type category, with reminders so you never miss a refeed.
 
 **Hydration Tracking**
-Smart daily water goals based on body weight with visual progress indicators.
-
-**Wellness Check-ins**
-Track mood, energy, and hunger with trend analysis over time.
+Daily water goal tracking with visual progress and smart reminders.
 
 **Educational Resources**
-Built-in PSMF guidance, safety information, and meal planning tips.
+Built-in PSMF guides and safety information backed by peer-reviewed research.
 
 **Full Privacy**
 All data is stored locally on your device. No accounts, no servers, no tracking.
