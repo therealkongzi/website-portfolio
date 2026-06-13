@@ -1,0 +1,21 @@
+title: Clint Tustison
+description: Indie iOS Developer
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+
+# Site settings
+url: "https://clinttustison.com"
+baseurl: ""
+
+# Navigation
+header_pages:
+  - index.md
+  - apps.md
+  - privacy-policy.md
+  - support.md
+  - about.md
+
+# Other nice defaults
+minimal_mistakes_skin: "default"  # or "contrast", "dark", etc.
+date_format: "%B %d, %Y"
