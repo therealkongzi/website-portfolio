@@ -1,12 +1,19 @@
+---
+title: Home
+layout: home
+author_profile: true
+---
+
 # Clint Tustison
 
-Indie iOS Developer
+**Indie iOS Developer**
 
-## My Apps
+Building practical iOS apps with a focus on privacy and usefulness.
 
-- [App Name 1](apps/app1.md)
-- [App Name 2](apps/app2.md)
+## Featured Apps
+*(Links will go here soon)*
 
-## Important Links
-- [Privacy Policy](/privacy-policy.md)
-- [Support](/support.md)
+## Quick Links
+- [All Apps](/apps)
+- [Privacy Policies](/privacy-policy)
+- [Support](/support)
