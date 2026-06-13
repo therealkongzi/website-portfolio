@@ -11,7 +11,7 @@ header:
       url: "/apps/"
 excerpt: >
   **Indie iOS Developer**<br>
-  Building practical, privacy-first apps for iOS.
+  iOS apps solving problems with simple solutions.
 feature_row:
   - image_path: /assets/images/psmf-diet-icon.png
     alt: "PSMF Diet app icon"
