@@ -1,19 +1,27 @@
 ---
-title: Home
-layout: home
-author_profile: true
+layout: splash
+permalink: /
+title: false
+header:
+  overlay_color: "#1c1c1e"
+  overlay_filter: 0.85
+  overlay_image: false
+  actions:
+    - label: "View My Apps"
+      url: "/apps/"
+excerpt: >
+  **Indie iOS Developer**<br>
+  Building practical, privacy-first apps for iOS.
+feature_row:
+  - image_path: /assets/images/psmf-diet-icon.png
+    alt: "PSMF Diet app icon"
+    title: "PSMF Diet"
+    excerpt: "Personalized macro tracking for Protein Sparing Modified Fasts. Calculate your targets, log meals, and follow a safe refeeding protocol."
+    url: "/apps/psmf-diet/"
+    btn_label: "Learn More"
+    btn_class: "btn--inverse"
 ---
 
-# Clint Tustison
-
-**Indie iOS Developer**
-
-Building practical iOS apps with a focus on privacy and usefulness.
-
 ## Featured Apps
-*(Links will go here soon)*
 
-## Quick Links
-- [All Apps](/apps)
-- [Privacy Policies](/privacy-policy)
-- [Support](/support)
+{% include feature_row %}
