@@ -5,7 +5,7 @@ permalink: /apps/pinoy-staff/
 header:
   overlay_color: "#1c1c1e"
   overlay_filter: 0.85
-excerpt: "Manage household staff profiles, track payments, store documents, and schedule shifts — all in one place."
+excerpt: "Manage Philippine household staff profiles, track payments, store documents, and schedule shifts — all in one place."
 toc: true
 toc_label: "On This Page"
 toc_icon: "list"
