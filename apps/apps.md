@@ -12,6 +12,14 @@ feature_row:
     url: "/apps/psmf-diet/"
     btn_label: "View App"
     btn_class: "btn--primary"
+  - image_path: /assets/images/pinoy-staff-icon.png
+    alt: "Pinoy Staff app icon"
+    title: "Pinoy Staff"
+    excerpt: >
+      Manage household staff profiles, track wages and benefits, store documents, and schedule shifts — all on your device.
+    url: "/apps/pinoy-staff/"
+    btn_label: "View App"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
