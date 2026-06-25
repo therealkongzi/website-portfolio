@@ -36,6 +36,14 @@ feature_row:
     url: "/apps/daily-chengyu/"
     btn_label: "View App"
     btn_class: "btn--primary"
+  - image_path: /assets/images/valuatepro-icon.png
+    alt: "ValuatePro app icon"
+    title: "ValuatePro - Business Worth"
+    excerpt: >
+      Determine your company's value using professional valuation methods — Revenue Multiple, Profit Multiple, or Cash Flow Analysis. No financial expertise required.
+    url: "/apps/valuatepro/"
+    btn_label: "View App"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
