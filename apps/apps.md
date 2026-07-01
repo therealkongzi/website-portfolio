@@ -44,6 +44,14 @@ feature_row:
     url: "/apps/valuatepro/"
     btn_label: "View App"
     btn_class: "btn--primary"
+  - image_path: /assets/images/ten-minute-math-icon.png
+    alt: "10 Min Math app icon"
+    title: "10 Min Math"
+    excerpt: >
+      Adaptive math fact practice for elementary kids. 10 focused minutes a day, a mastery grid that turns green as facts are learned, and separate profiles for every child.
+    url: "/apps/ten-minute-math/"
+    btn_label: "View App"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
